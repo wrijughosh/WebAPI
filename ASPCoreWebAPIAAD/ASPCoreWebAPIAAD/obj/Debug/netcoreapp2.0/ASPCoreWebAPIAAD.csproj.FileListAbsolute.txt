@@ -1,0 +1,12 @@
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\bin\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.deps.json
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\bin\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.runtimeconfig.json
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\bin\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.runtimeconfig.dev.json
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\bin\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.dll
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\bin\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.pdb
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.csprojResolveAssemblyReference.cache
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.csproj.CoreCompileInputs.cache
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.AssemblyInfoInputs.cache
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.AssemblyInfo.cs
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.dll
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.pdb
+C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
