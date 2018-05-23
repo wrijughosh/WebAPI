@@ -13,13 +13,20 @@ namespace ASPCoreWebAPIAAD.Controllers
         private HRDbContext dbContext;
         public EmployeesController()
         {
-            string connectionString = @"";
+            string connectionString = @"Server=WGHOSH6\SQL2017;Database=HRDb;User Id=blah;Password=blah;";
             dbContext = HRDbContextFactory.Create(connectionString);
         }
+
         [HttpGet]
         public Employee[] Get()
         {
-            return dbContext.Employees.ToArray();
+            return dbContext.Employees.Take(100).ToArray();
+        }
+
+        [HttpGet("{id}")]
+        public Employee Get(int id)
+        {
+            return dbContext.Employees.SingleOrDefault(emp => emp.Id == id);
         }
     }
 }
