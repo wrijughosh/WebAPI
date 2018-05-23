@@ -10,3 +10,15 @@ C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcore
 C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.dll
 C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.pdb
 C:\Users\wghosh\source\repos\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\bin\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.deps.json
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\bin\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.runtimeconfig.json
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\bin\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.runtimeconfig.dev.json
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\bin\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.dll
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\bin\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.pdb
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.csprojResolveAssemblyReference.cache
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.csproj.CoreCompileInputs.cache
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.AssemblyInfoInputs.cache
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.AssemblyInfo.cs
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.dll
+D:\Githubprojs\WebAPI\ASPCoreWebAPIAAD\ASPCoreWebAPIAAD\obj\Debug\netcoreapp2.0\ASPCoreWebAPIAAD.pdb
